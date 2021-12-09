@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PaulMolochko
+- 👀 I’m interested in Programing, Engineering, Development and all things science.
+- 🌱 I’m currently learning Javascript, HTML and CSS from scratch.
+- 📫 You can reach me at paulmolochko@outlook.com, or any messenger/social network with paulmolochko as my username.
